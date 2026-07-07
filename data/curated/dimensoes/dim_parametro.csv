@@ -1,0 +1,13 @@
+﻿id_parametro;parametro;categoria_parametro;unidade_medida
+1;pH;Fisico-quimico;
+2;Turbidez;Fisico-quimico;NTU
+3;Oxigenio Dissolvido;Fisico-quimico;mg/L
+4;DBO;Materia organica;mg/L
+5;DQO;Materia organica;mg/L
+6;Coliformes Termotolerantes;Microbiologico;NMP/100mL
+7;Temperatura;Fisico-quimico;C
+8;Condutividade;Fisico-quimico;uS/cm
+9;Solidos Totais;Solidos;mg/L
+10;Nitrogenio Amoniacal;Nutrientes;mg/L
+11;Fosforo Total;Nutrientes;mg/L
+12;Cloro Residual Livre;Desinfeccao;mg/L

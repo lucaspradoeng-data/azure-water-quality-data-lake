@@ -1,0 +1,7 @@
+﻿id_ponto_coleta;ponto_coleta;tipo_ponto;municipio;estado
+1;Captacao Rio Norte;Captacao superficial;Cuiaba;MT
+2;Saida ETA Central;Saida de tratamento;Cuiaba;MT
+3;Entrada ETE Sul;Entrada de tratamento;Varzea Grande;MT
+4;Saida ETE Sul;Saida de tratamento;Varzea Grande;MT
+5;Rio Coxipo Montante;Corpo hidrico;Cuiaba;MT
+6;Reservatorio Bairro Leste;Reservatorio;Cuiaba;MT
