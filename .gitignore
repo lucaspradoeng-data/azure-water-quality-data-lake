@@ -22,3 +22,11 @@ logs/
 # Temporary and local dashboards
 data/dashboard/
 dashboard/
+
+# Azure Functions
+local.settings.json
+*.zip
+.python_packages/
+.azurefunctions/
+__blobstorage__/
+__queuestorage__/
