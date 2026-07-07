@@ -40,7 +40,7 @@ Arquivo:
 Variáveis esperadas:
 
 ```env
-AZURE_SQL_SERVER=sql-awqdl-dev-lucas.database.windows.net
+AZURE_SQL_SERVER=<azure-sql-server>.database.windows.net
 AZURE_SQL_DATABASE=sqldb-awqdl-dev
 AZURE_SQL_USER=awqdladmin
 AZURE_SQL_PASSWORD=SENHA_LOCAL_NAO_VERSIONADA
@@ -136,7 +136,7 @@ Usar o padrão ODBC que já foi validado no projeto:
 
 ```text
 DRIVER={ODBC Driver 18 for SQL Server};
-SERVER=tcp:sql-awqdl-dev-lucas.database.windows.net,1433;
+SERVER=tcp:<azure-sql-server>.database.windows.net,1433;
 DATABASE=sqldb-awqdl-dev;
 UID=awqdladmin;
 PWD=***;
